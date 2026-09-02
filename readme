@@ -1,0 +1,4 @@
+1. install react using 
+  #npm install
+2. start the project using
+  #npm start or npm run dev  
